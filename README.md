@@ -1,5 +1,5 @@
 
-<img src="https://lairaalmas.github.io/assets/hi.png">
+<img src="https://lairaalmas.github.io/assets/hi.png" alt="Me in pixel art">
   
 ### Hi there, I'm Laira (she/her)
 
