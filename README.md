@@ -5,9 +5,9 @@
 
 ##
 
-✨ I’m currently working on the educational game: <a href="http://200.144.254.107/git/LInE/Ifractions-web">iFractions</a>
-
 🌱 I’m currently learning: <img align="center" alt="React.js icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+Have a better view of my projects on [lairaalmas.github.io](https://lairaalmas.github.io/)
 
 <div>
   <a href="https://github.com/lairaalmas">
